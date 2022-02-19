@@ -1,0 +1,31 @@
+/* heading part */
+.color{
+    color: #31A5AC;
+}
+
+/* pic part */
+#pic{
+    height: 520px;
+    width: 450px;
+}
+
+/* for all the p tag part */
+p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 26px;
+}
+
+/* for form part */
+.form{
+    text-align: center;
+    height: 520px;
+    background-color: #F8F8F8;
+   
+}
+/* error message */
+#error{
+    color: white;
+    background-color: red;
+}
